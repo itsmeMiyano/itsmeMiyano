@@ -1,7 +1,7 @@
 # ✨ Hi! I'm natsusa ✨.
 🖥️ I'm a full-stack developer, who has 3 years experience. 🖥️
 
-![miyano profile](https://komarev.com/ghpvc/?username=natsusaa&color=blueviolet)
+![miyano profile](https://komarev.com/ghpvc/?username=itsmeMiyano&color=blueviolet)
 
 # About me
 I'm almost 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun.
