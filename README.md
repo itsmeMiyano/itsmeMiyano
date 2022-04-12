@@ -1,4 +1,4 @@
-# ✨ Hi! I'm natsusa ✨.
+# ✨ Hi! I'm Miyano ✨.
 🖥️ I'm a full-stack developer, who has 3 years experience. 🖥️
 
 ![miyano profile](https://komarev.com/ghpvc/?username=itsmeMiyano&color=blueviolet)
