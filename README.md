@@ -1,10 +1,10 @@
-# ✨ Hi! I'm Miyano ✨.
+# ✨ Hi! I'm Miyano/Miyuki ✨.
 🖥️ I'm a full-stack developer, who has 3 years experience. 🖥️
 
 ![miyano profile](https://komarev.com/ghpvc/?username=itsmeMiyano&color=blueviolet)
 
 # About me
-I'm almost 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun.
+I'm 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun.
 
 ## 🌐 Techs & Langs🌐
 #### Langs
@@ -15,6 +15,6 @@ I'm almost 18 years old a junior developer. I love coding and watching anime or 
 ### Social
 If you want talk to me, you can contact me on discord.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/962939080818171965)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1042975181242630214)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeMiyano&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)](https://github.com/itsmeMiyano)
